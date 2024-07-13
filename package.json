@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@google-cloud/container": "^5.15.1",
+    "@google-cloud/gke-hub": "^4.5.0",
+    "@google-cloud/notebooks": "^3.4.0",
+    "@google-cloud/shell": "^3.3.0",
+    "@google-cloud/tpu": "^3.5.0"
+  }
+}

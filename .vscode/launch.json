@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "name": "Kubernetes: Run/Debug",
+            "type": "cloudcode.kubernetes",
+            "request": "launch",
+            "skaffoldConfig": "${workspaceFolder}/podman/kubernetes/kubectl/skaffold/integration/testdata/fix/skaffold.yaml",
+            "watch": true,
+            "cleanUp": true,
+            "portForward": true
+        }
+    ]
+}
