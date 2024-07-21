@@ -2,8 +2,9 @@ module influxdb_go_client
 
 go 1.22.4
 
+require github.com/InfluxCommunity/influxdb3-go v0.8.0
+
 require (
-	github.com/InfluxCommunity/influxdb3-go v0.8.0 // indirect
 	github.com/apache/arrow/go/v15 v15.0.2 // indirect
 	github.com/goccy/go-json v0.10.2 // indirect
 	github.com/google/flatbuffers v24.3.7+incompatible // indirect
